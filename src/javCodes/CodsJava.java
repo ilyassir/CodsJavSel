@@ -1416,7 +1416,5 @@ So bus driver tried to cast each of them to check whether one can help the man.
 	
 	
 	
-	
-	
-	
+
 	
